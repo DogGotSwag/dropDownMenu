@@ -1,3 +1,3 @@
-import dropMenu from "./dropMenu";
+import dropMenu from './dropMenu';
 
-dropMenu(".dropButton");
+dropMenu('.dropButton');
