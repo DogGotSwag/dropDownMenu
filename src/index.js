@@ -1,1 +1,3 @@
-const button = document.querySelector('dropButton');
+import dropMenu from "./dropMenu";
+
+dropMenu(".dropButton");
