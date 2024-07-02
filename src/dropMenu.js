@@ -1,4 +1,4 @@
-import './style.css';
+import './dropDownMenuStyle.css';
 
 function dropMenu(selector) {
   const button = document.querySelector(selector);
